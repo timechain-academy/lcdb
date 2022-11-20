@@ -75,3 +75,7 @@ zig-cache/
 zig-out/
 
 .DS_Store
+build/
+lcdb.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+lcdb.xcodeproj/project.xcworkspace/xcuserdata/
+lcdb.xcodeproj/xcuserdata/
